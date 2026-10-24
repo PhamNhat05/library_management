@@ -28,7 +28,6 @@ library-management/
 │   └── setting.h      # Hằng số cấu hình giao diện
 ├── data/
 │   └── BOOKDATA.csv   # Dữ liệu sách
-├── .gitignore
 └── README.md
 ```
 
